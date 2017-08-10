@@ -1,5 +1,6 @@
 # Cross entropy approach to solving the TSP on Python 3
 An implementation of an approximation of the solution to Traveling Salesman Problem using cross entropy approach on Python 3. This project was created in order to replicate the results presented in the following paper 
+
 [`De Boer, P-T., Kroese, D.P, Mannor, S. and Rubinstein, R.Y. (2005). A Tutorial on the Cross-Entropy Method. Annals of Operations Research, 134 (1), 19--67.`](https://scholar.google.ru/scholar?hl=en&q=A+Tutorial+on+the+Cross-Entropy+Method&as_sdt=1%2C5&as_sdtp=&oq=)
 
 This repository contains a `.ipynb` in which you may find: 
